@@ -9,6 +9,6 @@ int main()
 		cin >> p[i];
 	for (int i = 0; i < n; i++)
 		if (p[i] < 60)
-			sum = sum + 400;
+			sum = sum + 40;
 	cout << sum;
 }
